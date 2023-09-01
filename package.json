@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marx-ti/praesentation/issues"
   },
-  "homepage": "https://github.com/marx-ti/praesentation#readme"
+  "homepage": "https://github.com/marx-ti/praesentation#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
 }
